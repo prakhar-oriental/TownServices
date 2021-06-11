@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "19981025459",
+    "project_id": "town-services-9e505",
+    "storage_bucket": "town-services-9e505.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19981025459:android:840f5c4f5921dfbfa4f0c6",
+        "android_client_info": {
+          "package_name": "com.example.townservices"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19981025459-aba4kb613psbolaejhr1cbrsa0cvr5g4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhGXoHLe9B6M4auuxEiVkrx9pG9TGxjUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19981025459-aba4kb613psbolaejhr1cbrsa0cvr5g4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
